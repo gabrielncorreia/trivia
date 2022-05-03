@@ -1,0 +1,8 @@
+const actypes = {
+  SET_NUMBER_OF_QUESTION: 'SET_NUMBER_OF_QUESTION',
+  SAVE_QUESTIONS_ON_STORE: 'SAVE_QUESTIONS_ON_STORE',
+  // ADD_SCORE: 'ADD_SCORE',
+  ADD_TIMER: 'ADD_TIMER',
+};
+
+export default actypes;
